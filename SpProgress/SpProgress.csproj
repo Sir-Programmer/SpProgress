@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Authors>SirProgrammer (Mojtaba Karamlou)</Authors>
+        <Company>SPSOFT</Company>
+        <PackageId>SpProgress</PackageId>
+        <Version>1.0.0</Version>
+        <Description>A lightweight console progress bar for file download and copy operations.</Description>
+        <PackageTags>progress,download,copy,console,async</PackageTags>
+        <RepositoryUrl>https://github.com/sir-programmer/SpProgress</RepositoryUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+</Project>
