@@ -14,6 +14,18 @@ A lightweight and customizable console progress bar library for asynchronous ope
 
 ---
 
+---
+
+## Installation
+
+Install via NuGet:
+
+```bash
+dotnet add package SpProgress
+```
+
+---
+
 ## Usage
 
 Use the `SpProgress` library for various progress tracking scenarios such as downloading files, copying files, or any custom progress.
