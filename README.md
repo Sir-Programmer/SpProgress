@@ -18,7 +18,7 @@ A lightweight and customizable console progress bar library for asynchronous ope
 
 ## Installation
 
-Install via NuGet:
+Install via [NuGet](https://www.nuget.org/packages/SpProgress):
 
 ```bash
 dotnet add package SpProgress
